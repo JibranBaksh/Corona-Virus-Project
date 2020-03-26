@@ -26,12 +26,12 @@
 | Deaths | Cumilative number of deaths to date |
 | Recovered | Cumilative number of recovered cases to date |
 
-Keep writing more stuff here!
+This Project was challenging yet fun to work on with the evolving data. This data may not reflect current figures. Please Use this ***[Link](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)*** for an accuracte update.
 
 ## Important Links
 
 * [Final Report Notebook](report.ipynb)
 * [EDA Notebook](eda.ipynb)
 * [More Information](https://www.cdc.gov/coronavirus/2019-nCoV/index.html) - More Information about the Corona Virus
-* [Case Visualization](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - An accurate and updated Visualization of The Corona Virus PAndemic
+* [Case Visualization](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - An accurate and updated Visualization of The Corona Virus Pandemic
 * [Data](https://www.kaggle.com/) - Source of the Data 
